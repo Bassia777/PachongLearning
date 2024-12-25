@@ -39,6 +39,6 @@ def test(sleep_time):
 
 
 # test = ProcessTime2(test)
-# test = ProcessTime(test)
+test = ProcessTime(test)
 
 t = test(1)
