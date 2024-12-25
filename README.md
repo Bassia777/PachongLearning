@@ -1,5 +1,6 @@
 # 关于作者
-大家好，我是程序员阿江-Relakkes，近期我会给大家出一些爬虫方面的教程，爬虫入门、进阶、高级都有，有需要的朋友，star仓库并持续关注本仓库的更新。
+该代码是程序员阿江-Relakkes写的，
+我只是练习上传代码到github，建议直接找阿江学习爬虫技巧
 
 - [Github万星开源自媒体爬虫仓库MediaCrawler作者](https://github.com/NanmiCoder/MediaCrawler)
 - 全栈程序员，熟悉Python、Golang、JavaScript，工作中主要用Golang。
